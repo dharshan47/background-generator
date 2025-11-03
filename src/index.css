@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@source inline("bg-gradient-to-{r,l,t,b,tl,tr,bl,br}");
+@source inline("from-{red,blue,green,yellow,purple,pink,indigo,teal}-{100..900..100}");
+@source inline("via-{red,blue,green,yellow,purple,pink,indigo,teal}-{100..900..100}");
+@source inline("to-{red,blue,green,yellow,purple,pink,indigo,teal}-{100..900..100}");
