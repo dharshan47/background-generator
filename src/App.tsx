@@ -1,4 +1,4 @@
-import React from 'react'
+
 import BackgroundGenerator from './components/BackgroundGenerator'
 
 const App = () => {

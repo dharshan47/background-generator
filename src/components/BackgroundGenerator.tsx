@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import  { useState } from "react";
 
 const gradients = [
   "bg-gradient-to-r",
